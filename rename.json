@@ -1,0 +1,3 @@
+{
+  "baconplugin.coffee": "{%= name %}.coffee"
+}

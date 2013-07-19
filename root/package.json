@@ -1,0 +1,10 @@
+{
+  "name": "{%= name %}",
+  "version": "{%= version %}",
+  "description": "{%= description %}",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "coffee-script": "~1.6.3"
+  }
+}
