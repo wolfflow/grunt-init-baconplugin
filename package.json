@@ -1,0 +1,26 @@
+{
+  "name": "grunt-init-baconplugin",
+  "version": "0.1.0",
+  "author": "Daniel K <x.flowwolf@gmail.com>",
+  "licenses": ["MIT"],
+  "readmeFilename": "README.md",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "grunt",
+    "grunt-init",
+    "bacon.js",
+    "module",
+    "project",
+    "scaffold",
+    "template",
+    "frp",
+    "reactive"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wolfflow/grunt-init-baconplugin.git"
+  },
+  "homepage": "https://github.com/wolfflow/grunt-init-baconplugin",
+  "main": "template.js"
+}
