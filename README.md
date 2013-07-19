@@ -1,4 +1,4 @@
-# grunt-init-baconplugin
+# grunt-baconplugin
 
 > Create a [Bacon.js][] plugin module with [grunt-init][]
 
